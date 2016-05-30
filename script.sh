@@ -1,3 +1,4 @@
+# Vincent adds a comment
 for datafile in *[AB].txt
 do
    echo $datafile
